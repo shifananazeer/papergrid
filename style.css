@@ -1,0 +1,247 @@
+.head{
+    width: 100%;
+    height: 10rem;
+    background-color: black;
+}
+.first{
+    width: 100%;
+    height: 4rem;
+    border: 1px solid;
+    border-color: rgb(56, 54, 54);
+    text-align: center;
+    
+}
+.text{
+    letter-spacing: irem;
+    color: aliceblue;
+}
+.second{
+    width:100%;
+    height: 6rem;
+}
+.nav{
+    width: 70%;
+    height: 3rem;
+    padding-top: 40px;
+    padding-left: 50px;
+    background-color: rgb(6, 6, 6);
+    float: left;
+}
+.img1{
+width: 150px;
+height: 30;
+float: left;
+}
+.nav-optn{
+    cursor: pointer;
+   color: aliceblue; 
+    transition: text-decoration-thickness var(--duration-short) ease;
+;
+    
+
+    float: left;
+    padding-left: 50px;
+    font-family: inherit;
+    font-size: 1.4rem;
+    background-color: transparent;
+    
+}
+.nav2{
+    width: 26%;
+    height: 5rem;
+    background-color: black;
+    float: left;
+    padding-top:0rem ;
+
+}
+.man{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 7rem;
+    
+}
+
+.mand{
+    width: 50%;
+    height: 52px;
+    background-color:black;
+    float: left;
+    padding-top: 40px;
+    color: aliceblue;
+}
+.bagd{
+    width: 50%;
+    height: 50px;
+    background-color:black;
+    float: left;
+    padding-top: 40px;
+    color: aliceblue;
+}
+.main-body{
+    width: 100%;
+    height: auto;
+    background-color: aliceblue;
+}
+.first-row{
+    width: 100%;
+    height: 400px;
+    background-color: aliceblue;
+    padding-left: 10px;
+    padding-top: 34px;
+}
+.second-row{
+    width: 100%;
+    height: 400px;
+    background-color:aliceblue;
+    padding-left: 7px;
+}
+.book
+{
+    width: 361px;
+    height: 391px;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 50px;
+}
+.books{
+    width:361px;
+    height: 355px;
+    background-color:aliceblue;
+    float: left;
+    margin-left:50px ;
+}
+.imgbooks{
+    width: 361px;
+    height: 355px;
+}
+
+.imgbook{
+    width: 361px;
+    height: 391px;
+}
+.third-row{
+    width: 100%;
+    height: 700px;
+    background-color:aliceblue;
+    padding: 20px;
+}
+.owner{
+    width: 35%;
+    height:700px ;
+    background-color:aliceblue;
+    padding: 20px;
+    float: left;
+}
+.imgowner{
+    width: 445px;
+    height: 569px;
+}
+.next{
+    width: 100%;
+    height: 700px;
+    background-color: aliceblue;
+    padding-left: 50px;
+}
+.text-owner{
+    font-size: calc(var(--font-heading-scale) * 3.4rem);
+    font-size: 2rem;
+}
+.qoute{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+}
+.line{
+    font-size: 1.8rem;
+    line-height: calc(1 + .8 / var(--font-body-scale));
+    letter-spacing: .06rem;
+    color: rgb(49, 48, 48);
+
+}
+.button{
+    width: 200px;
+    height: 55px;
+    background-color:black;
+    color: aliceblue;
+    font-size: medium;
+    
+}
+.fourth-row{
+    width: 100%;
+    height: 500px;
+    background-color:black;
+    text-align: center;
+}
+.cont{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 90;
+    margin-right: 524px;
+}
+.num{
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 90;
+}
+.ctext{
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 99;
+    font-style: calc();
+}
+.last{
+    width: 200px;
+    height: 100px;
+    background-color:black;
+    margin-left: 571px;
+}
+.imglogo{
+    width: 2rem;
+    height: 2rem;
+}
+.foot{
+    width: 100%;
+    height: 300px;
+    border: .01px solid;
+    border-color: darkgray;
+    margin-top: 50px;
+    text-align: left;
+    float: left;
+    
+}
+.policies{
+    display: inline;
+}
+.copy{
+    width: 100%;
+    height: 50px;
+    background-color:black;
+    margin-top: 50px;
+    color: darkgray;
+}
+.copyright__content {
+    font-size: 1.1rem;
+    color: darkgray;
+    cursor: pointer;
+}
+.policies li {
+    display: inline-flex;
+    justify-content: center;
+    align-items: cente;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.caption {
+    font-size: 1.2rem;
+
+}
+.caption {
+    font-size: 1rem;
+    letter-spacing: .07rem;
+    line-height: calc(1 + .7 / var(--font-body-scale));
+}
+.body{
+    margin: 0px;
+}
